@@ -2,3 +2,5 @@
 TrianglePegBoardGame/bin/
 TrianglePegBoardGame/obj/
 packages/
+node_modules/
+dist/
